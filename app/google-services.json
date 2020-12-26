@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532402120274",
+    "project_id": "steganography-6a13e",
+    "storage_bucket": "steganography-6a13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532402120274:android:2b6ef8633b4d9d845d618b",
+        "android_client_info": {
+          "package_name": "com.example.stegno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532402120274-4bkm736ak7vvgjl3bed6hkgq77hii0ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUB6Ktiavub8mad-qY4DJ7E5c0sMeQGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532402120274-4bkm736ak7vvgjl3bed6hkgq77hii0ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
